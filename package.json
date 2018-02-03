@@ -1,5 +1,5 @@
 {
-  "name": "hash-stream",
+  "name": "hash-stream-promise",
   "version": "1.0.0",
   "description": "Hash the content from a readable stream into a fingerprint hash",
   "main": "index.js",

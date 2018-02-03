@@ -4,7 +4,7 @@ This module takes content of a readable stream
 and creates a fingerprint hash for it.
 
 ```
-npm install hash-stream
+npm install hash-stream-promise
 ```
 
 ## Usage
